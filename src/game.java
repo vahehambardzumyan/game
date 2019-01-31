@@ -36,7 +36,7 @@ public class game {
                 break;
             } else {
                 System.out.println("You Lose. You have " + (10 - i) + "attempt/attempts");
-                int e = sc.nextInt();
+                d = sc.nextInt();
             }
 
         }
